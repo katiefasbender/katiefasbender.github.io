@@ -8,9 +8,9 @@ permalink: /cv/
 
 ### Research and Professional Experience
 
-Postdoctoral Research Associate (January 2026 - present)
-Argus Array
-University of North Carolina at Chapel Hill
+Postdoctoral Research Associate (January 2026 - present) \\
+Argus Array \\
+University of North Carolina at Chapel Hill \\
 
 Graduate Research Assistant (January 2018 - August 2024)
 Montana State University
