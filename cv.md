@@ -8,29 +8,44 @@ permalink: /cv/
 
 ### Research and Professional Experience
 
-Postdoctoral Research Associate (January 2026 - present) \n
-Argus Array \\
-University of North Carolina at Chapel Hill \\
+Postdoctoral Research Associate (January 2026 - present)
+
+Argus Array
+
+University of North Carolina at Chapel Hill
+
 
 Graduate Research Assistant (January 2018 - August 2024)
+
 Montana State University
 
+
 Graduate Teaching Assistant (August 2017 - December 2023)
+
 Montana State University 
 
 ## Education
 
 PhD (August 2024) - Physics
+
 Montana State University
+
 Bozeman Montana, USA
-Thesis title: "Exploring the Solar System with the NOIRLab Source Catalog:
+
+Thesis title: "Exploring the Solar System with the NOIRLab Source Catalog"
+
 
 M.S. (May 2022) - Physics
+
 Montana State University
+
 Bozeman, Montana, USA
 
+
 B.S. (May 2017) - Physics with Astronomy concentration
+
 Humboldt State University (Cal Poly Humboldt)
+
 Arcata, California, USA
 
 
