@@ -8,7 +8,7 @@ permalink: /cv/
 
 ### Research and Professional Experience
 
-Postdoctoral Research Associate (January 2026 - present) \\
+Postdoctoral Research Associate (January 2026 - present) \n
 Argus Array \\
 University of North Carolina at Chapel Hill \\
 
